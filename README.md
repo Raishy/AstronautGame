@@ -8,6 +8,7 @@ Known Bugs
 2. If you take any damage from robots and then kill them, the game will instantly restart.(Best to reach the end without taking damage).   
 3. Running into robots will sometimes push you off the path and will prevent you from completing the level.   
 
+==Controls==   
 ESC = exit Game   
 R = Reset
 
