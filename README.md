@@ -1,7 +1,7 @@
 # Astronaut Game
 This game was created using the Unity Game Engine and by a team of 5 students. Most models were made using Blender and most of the textures are from the Unity asset store. This game is not finished and the "end" of the demo is reaching the top of a building with a modeled dragon on top of it. Entire dev time was 3 months.   
 
-To Run the game
+Run The TLDemo.exe in the TL folder to play the game.
 
 Known Bugs   
 1. Falling of a building will instantly drop you to the floor   
